@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 Alteração na branch1-1
+=======
+Alteração na branch2-2
+>>>>>>> branch2-2
+
+
